@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 )
-// Roshan
+// Roshan Kapse
 func main() {
 	//How to declare variables?
 	// First Method
